@@ -90,4 +90,4 @@ elif menu == "Upload & Analyze":
             )
 
             # ---- Subtle Credit ----
-            st.markdown("<p style='color:gray;font-size:12px'>Made with ❤️ by Your Name</p>", unsafe_allow_html=True)
+            st.markdown("<p style='color:gray;font-size:12px'>Made by laysblue</p>", unsafe_allow_html=True)
