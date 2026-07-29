@@ -51,8 +51,5 @@ Then open the local URL Streamlit prints, upload a transactions CSV, and view re
 - Robust error handling at every stage (CSV parsing, model fitting, chart rendering, CSV export)
 - Downloadable results — flagged anomalies can be exported directly for further review
 
-## Talking Points for CV / Interview
-
-- Built a real-time anomaly detection system using Isolation Forest to flag suspicious transactions across simulated financial data, with no labeled fraud examples required.
-- Deployed as an interactive Streamlit dashboard with dynamic metrics, distribution and time-series visualizations, and a one-click export of flagged results.
+bution and time-series visualizations, and a one-click export of flagged results.
 - Designed for robustness — the app validates input data at each step and degrades gracefully (informative messages instead of crashes) when expected columns are missing.
